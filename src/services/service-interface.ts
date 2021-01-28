@@ -1,4 +1,5 @@
 interface movies_interface {
+  constructor: Function;
   search: Function;
 }
 
